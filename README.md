@@ -1,1 +1,1 @@
-# COH-DisArray
+# CoHDisArray
